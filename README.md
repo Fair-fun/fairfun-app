@@ -1,7 +1,7 @@
 
 # fair.fun
 
-[Logo](./images/logo.png)
+![Logo](./images/logo.png)
 
 EPFL sui hackathon repo is located [here](https://github.com/gundondu0/fair.fun), This is created to have a company repository
 
